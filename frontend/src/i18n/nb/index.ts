@@ -6,8 +6,8 @@ const translation = {
             },
         },
         app: {
-            name: 'ACO-gpt',
-            nameWithoutClaude: 'ACO-gpt',
+            name: 'Bedrock Claude Chat',
+            nameWithoutClaude: 'Bedrock Chat',
             inputMessage: 'Send en melding',
             starredBots: 'Favorittbot',
             recentlyUsedBots: 'Nylig brukte boter',
